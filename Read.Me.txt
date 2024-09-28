@@ -1,0 +1,8 @@
+Data percistence Project - Manage scene flow and data
+
+Starter breakout game - with added data percistence btw menuscene and gamescene in form of a MainManager (DontDestroyOnLoad). Btw sessions data persistence with saving name+highscore to a savefile.json. 
+
+https://play.unity.com/en/games/9512b047-a4e1-4cee-9024-c0d3cd90ef4c/webgl-builds
+
+https://github.com/Landcrab2024/Data-Persistence/
+
